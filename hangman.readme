@@ -1,0 +1,12 @@
+# fantastic-meme
+posting games
+
+Just a simple version the game, Hangman.
+It makes use of a dictionary called 'sowpods' that helps the game to import a random word from it.
+So in order to play this game you need both, the code as well as the file, 'sowpods.txt'.
+
+The way the games works is pretty simple!!!
+First it generates a random word, then it makes use of a function that generates as many dashes as the
+length of the random word and then asks the user for an input, which is a letter from the English alphabet.
+
+The user is only allowed to make 6 wrong guesses, failing to which he/she looses the game.
